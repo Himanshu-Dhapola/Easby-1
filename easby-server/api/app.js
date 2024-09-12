@@ -13,7 +13,7 @@ import orderHistoryRouter from '../src/routes/orderHistory.routes.js';
 
 const app = express();
 
-app.use(cors({ origin: "*", methods: ['GET', 'POST', 'PATCH', 'PUT', 'DELETE', 'OPTIONS'], allowedHeaders: ['Origin', 'Content-Type', 'X-Auth-Token'], credentials: true }));
+app.use(cors({ origin: "https://himanshu-dhapola-easby.vercel.app", methods: ['GET', 'POST', 'PATCH', 'PUT', 'DELETE', 'OPTIONS'], allowedHeaders: ['Origin', 'Content-Type', 'X-Auth-Token'], credentials: true }));
 app.use(express.json({ limit: '64kb' }));
 app.use(express.urlencoded({ extended: true, limit: '16kb' }));
 app.use(express.static('public'));
