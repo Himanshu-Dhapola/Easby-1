@@ -24,7 +24,7 @@ export default function OrderSummary() {
     const token = localStorage?.getItem("accessToken");
     const stripe = await loadStripe(import.meta.env.VITE_PUBLISHABLE_KEY);
     const body = { product: cart };
-    const response = await axios.post(`https://himanshu-dhapola-easby-server.onrender.com/api/v1/payment`, body,
+    const response = await axios.post(`https://easby-server.vercel.app/api/v1/payment`, body,
       {
         headers: { Authorization: `Bearer ${token}` },
         withCredentials: true,
