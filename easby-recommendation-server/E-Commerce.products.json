@@ -1,0 +1,3000 @@
+[
+  {
+    "_id": "66cffb83e02b66605d771d62",
+    "title": "Apple MacBook AIR Apple M2-(8 GB/256 GB SSD/Mac OS Monterey) MLY33HN/A",
+    "description": "Charged in a blazing-fast speed with the next-level M2 chip, this redesigned Apple’s notebook comes with mind blowing and has an excellent battery backup that can last up to 18 hours, which comes with an aluminium enclosure.",
+    "quantity": 30,
+    "price": 99900,
+    "discountedPrice": 90990,
+    "discountPercentage": 8,
+    "brand": "Apple",
+    "color": "Midnight",
+    "size": [
+      {
+        "name": "14inch",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66cffb83e02b66605d771d63"
+        }
+      },
+      {
+        "name": "15.6inch",
+        "quantity": 20,
+        "_id": {
+          "$oid": "66cffb83e02b66605d771d64"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T04:39:31.907Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T04:39:31.907Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d03d4f8b66ab2be743bedf",
+    "title": "SAMSUNG Galaxy Book3 360 EVO AMOLED Intel Core i7 13th Gen 1360P - (16 GB/1 TB SSD/Windows 11 Home) NP750QFG-KA3IN Thin and Light Laptop (1.46 Kg, With MS Office)",
+    "description": "Stylish & Portable Thin and Light Laptop Super Amoled FHD display Finger Print Sensor for Faster System Access Light Laptop without Optical Disk Drive",
+    "quantity": 34,
+    "price": 153446,
+    "discountedPrice": 128990,
+    "discountPercentage": 15,
+    "brand": "Samsung",
+    "color": "Graphite",
+    "size": [
+      {
+        "name": "14inch",
+        "quantity": 12,
+        "_id": {
+          "$oid": "66d03d4f8b66ab2be743bee0"
+        }
+      },
+      {
+        "name": "15.6inch",
+        "quantity": 22,
+        "_id": {
+          "$oid": "66d03d4f8b66ab2be743bee1"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/f/n/l/-original-imahfu5nx74uecqr.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T09:20:15.974Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T09:20:15.974Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d03def8b66ab2be743beef",
+    "title": "SAMSUNG Galaxy Book 2 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) NP550 Thin and Light Laptop  (1.80 Kg, With MS Office)",
+    "description": "Stylish & Portable Thin and Light Laptop Full HD LED Display, Anti-Glare Light Laptop without Optical Disk Drive",
+    "quantity": 54,
+    "price": 82990,
+    "discountedPrice": 52990,
+    "discountPercentage": 36,
+    "brand": "Samsung",
+    "color": "Graphite",
+    "size": [
+      {
+        "name": "14inch",
+        "quantity": 12,
+        "_id": {
+          "$oid": "66d03def8b66ab2be743bef0"
+        }
+      },
+      {
+        "name": "15.6inch",
+        "quantity": 22,
+        "_id": {
+          "$oid": "66d03def8b66ab2be743bef1"
+        }
+      },
+      {
+        "name": "16inch",
+        "quantity": 20,
+        "_id": {
+          "$oid": "66d03def8b66ab2be743bef2"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/r/r/5/-original-imagupz9vdcgzvnf.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T09:22:55.244Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T09:22:55.244Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d041c68b66ab2be743bf0c",
+    "title": "HP Pavilion Intel Core i7 12th Gen 1255U - (16 GB/1 TB SSD/Windows 11 Home) 14-dv2015TU Thin and Light Laptop  (1.41 Kg, With MS Office)",
+    "description": "The HP Pavilion laptop has a powerful Intel 12th Gen processor, built-in Alexa, B&O speakers, fingerprint reader, long-lasting battery, and is also lightweight which makes it fast, comfortable, safe, and easy to carry. Its HD display lets you have an extraordinary visual experience.",
+    "quantity": 55,
+    "price": 93261,
+    "discountedPrice": 76999,
+    "discountPercentage": 17,
+    "brand": "Hp",
+    "color": "Natural Silver",
+    "size": [
+      {
+        "name": "14inch",
+        "quantity": 30,
+        "_id": {
+          "$oid": "66d041c68b66ab2be743bf0d"
+        }
+      },
+      {
+        "name": "15.6inch",
+        "quantity": 25,
+        "_id": {
+          "$oid": "66d041c68b66ab2be743bf0e"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/m/g/k/14-dv2015tu-thin-and-light-laptop-hp-original-imah4fv5rggwsyvz.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T09:39:18.458Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T09:39:18.458Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d054248b66ab2be743c032",
+    "title": "Acer Predator Helios 16 Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060) PHN16-71-939L Gaming Laptop  (2.6 Kg)",
+    "description": "16 Inch WUXGA display with IPS (In-Plane Switching) technology, high-brightness (400 nits) Acer ComfyView LED-backlit TFT LCD, supporting 165 Hz, Grey to Grey 3 ms by Overdrive, Nvidia Advanced Optimus capable. Light Laptop without Optical Disk Drive",
+    "quantity": 25,
+    "price": 171999,
+    "discountedPrice": 129990,
+    "discountPercentage": 24,
+    "brand": "Acer",
+    "color": "Obsidian Black",
+    "size": [
+      {
+        "name": "16inch",
+        "quantity": 25,
+        "_id": {
+          "$oid": "66d054248b66ab2be743c033"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/1/m/0/-original-imagt65skkzmngb3.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T10:57:40.623Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T10:57:40.623Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d054f58b66ab2be743c044",
+    "title": "ASUS Vivobook Pro 14 OLED AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home) M3400QA-KM502WS Thin and Light Laptop  ( 1.4 kg, With MS Office)",
+    "description": "Vivobook Pro 14 OLED is ready and waiting to take you on your journey of discovery. Whatever you need to do — browse, create or play — the latest AMD Ryzen 5000-H Series CPU, DDR4 3200MHz memory and a PCIe SSD give you all the horsepower you need to realize your visual creativity. Expand your vision beyond the borders and immerse yourself in Vivobook Pro 14 OLED’s amazing 16:10 aspect-ratio display. This 2.8K OLED1 NanoEdge display is super-bright — up to 600 nits — and has an 85% screen-to-body ratio, along with a 100% DCI-P3 color gamut for ultra-vivid colors.",
+    "quantity": 5,
+    "price": 74990,
+    "discountedPrice": 66566,
+    "discountPercentage": 11,
+    "brand": "Asus",
+    "color": "Solar Silver",
+    "size": [
+      {
+        "name": "14inch",
+        "quantity": 5,
+        "_id": {
+          "$oid": "66d054f58b66ab2be743c045"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/6/x/f/vivobook-pro-laptop-asus-original-imaggur3mgfbjmnf.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T11:01:09.585Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:01:09.585Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0566f8b66ab2be743c08b",
+    "title": "HP Victus Intel Core i5 13th Gen 13420H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) 15-fa1307TX Gaming Laptop  (2.37 Kg, With MS Office)",
+    "description": "15.6 Inch FHD,144 Hz, 9 ms response time, IPS, micro-edge, anti-glare, Brightness: 250 nits, 141 ppi, Color Gamut: 45% NTSC Light Laptop without Optical Disk Drive Preloaded with MS Office",
+    "quantity": 10,
+    "price": 74990,
+    "discountedPrice": 66566,
+    "discountPercentage": 11,
+    "brand": "Hp",
+    "color": "Black",
+    "size": [
+      {
+        "name": "15.6inch",
+        "quantity": 5,
+        "_id": {
+          "$oid": "66d0566f8b66ab2be743c08c"
+        }
+      },
+      {
+        "name": "16inch",
+        "quantity": 5,
+        "_id": {
+          "$oid": "66d0566f8b66ab2be743c08d"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/r/y/s/-original-imah3g3pu8hakdgs.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T11:07:27.504Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:07:27.504Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0572b8b66ab2be743c0a1",
+    "title": "Apple MacBook Pro Apple M3 Pro - (18 GB/512 GB SSD/macOS Sonoma) MRX33HN/A  (1.61 kg)",
+    "description": "Stylish & Portable Thin and Light Laptop XDR (Extreme Dynamic Range), 10,00,000:1 contrast ratio, XDR brightness: 1,000 nits sustained full-screen, 1,600 nits peak2 (HDR content only), SDR brightness: 600 nits Light Laptop without Optical Disk Drive",
+    "quantity": 18,
+    "price": 199900,
+    "discountedPrice": 187990,
+    "discountPercentage": 5,
+    "brand": "Apple",
+    "color": "Black",
+    "size": [
+      {
+        "name": "14inch",
+        "quantity": 18,
+        "_id": {
+          "$oid": "66d0572b8b66ab2be743c0a2"
+        }
+      }
+    ],
+    "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/v/n/-original-imaguw3hhw9ce9ry.jpeg?q=70",
+    "numRatings": 0,
+    "category": "Laptops",
+    "createdAt": {
+      "$date": "2024-08-29T11:10:35.062Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:10:35.062Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0590a8b66ab2be743c0c5",
+    "title": "Apple Watch Series 9 GPS 45mm Silver Aluminium Case with Winter Blue Sport Loop  (Silver Strap, Free Size)",
+    "description": "Apple Watch Series 9 helps you stay connected, active, healthy, and safe. Featuring double tap, a magical way to interact with Apple Watch, and an even-brighter display.Powerful sensors, Advanced health features. With Call Function Touchscreen Fitness & Outdoor Battery Runtime: Upto 18 hrs",
+    "quantity": 28,
+    "price": 49900,
+    "discountedPrice": 44900,
+    "discountPercentage": 10,
+    "brand": "Apple",
+    "color": "Blue",
+    "size": [
+      {
+        "name": "41mm",
+        "quantity": 18,
+        "_id": {
+          "$oid": "66d0590a8b66ab2be743c0c6"
+        }
+      },
+      {
+        "name": "45mm",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0590a8b66ab2be743c0c7"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/41Sv26QVyrL._SX300_SY300_QL70_FMwebp_.jpg",
+    "numRatings": 0,
+    "category": "Watches",
+    "createdAt": {
+      "$date": "2024-08-29T11:18:34.076Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:18:34.076Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d05cfe8b66ab2be743c155",
+    "title": "SF Quartz Analog Digital Black Dial Plastic Strap Watch for Men-NP77027PP01",
+    "description": "Dial Color: Multi-Color, Case Shape: Round Band Color: Black, Band Material: Rubber Watch Movement Type: Quartz, Watch Display Type: Chronograph Warranty type: Manufacturer; 12 Months Manufacturer Warranty Remove plastic at crown to start the watch",
+    "quantity": 60,
+    "price": 2899,
+    "discountedPrice": 2899,
+    "discountPercentage": 0,
+    "brand": "Sonata",
+    "color": "Black",
+    "size": [
+      {
+        "name": "41mm",
+        "quantity": 20,
+        "_id": {
+          "$oid": "66d05cfe8b66ab2be743c156"
+        }
+      },
+      {
+        "name": "43mm",
+        "quantity": 20,
+        "_id": {
+          "$oid": "66d05cfe8b66ab2be743c157"
+        }
+      },
+      {
+        "name": "45mm",
+        "quantity": 20,
+        "_id": {
+          "$oid": "66d05cfe8b66ab2be743c158"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71zL0UQfryL._AC_AA152_.jpg",
+    "numRatings": 0,
+    "category": "Watches",
+    "createdAt": {
+      "$date": "2024-08-29T11:35:26.267Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:35:26.267Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d05ef11635dc4415dcc9e5",
+    "title": "Titan Women's Precision Simplicity Analog Watch: Green Gradient Dial with Leather Strap-NS2648WL01",
+    "description": "Minimalistic contemporary design Genuine Light Olive Green colored leather strap Dual finished Grey dial with Ink filled hands Manfucturer Warranty : 2 years Bezel Function: No Bezel Available; Case Material Type: Brass; Item Shape: Round; Dial Window Material Type: Mineral; Watch Movement Type: Quartz; Department Name: Womens; Warranty Type: Manufacturer",
+    "quantity": 27,
+    "price": 6999,
+    "discountedPrice": 9999,
+    "discountPercentage": 30,
+    "brand": "Titan",
+    "color": "Green",
+    "size": [
+      {
+        "name": "43mm",
+        "quantity": 2,
+        "_id": {
+          "$oid": "66d05ef11635dc4415dcc9e6"
+        }
+      },
+      {
+        "name": "45mm",
+        "quantity": 25,
+        "_id": {
+          "$oid": "66d05ef11635dc4415dcc9e7"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/616LuWzn7bL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Watches",
+    "createdAt": {
+      "$date": "2024-08-29T11:43:45.990Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:43:45.990Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d05fa41635dc4415dcc9f7",
+    "title": "Casio Enticer Analog White Dial Men's Watch (MTP-V300L-7AUDF, A1177)",
+    "description": "Dial Color: White, Case Shape: Round Watch Movement Type: Quartz, Watch Display Type: Analog Band Color: Brown, Band Material: Leather, Occasion: Formal Case Material: Stainless Steel, Warranty type: Manufacturer; 2 Years Domestic Warranty Remove plastic at crown to start the watch",
+    "quantity": 10,
+    "price": 3795,
+    "discountedPrice": 3415,
+    "discountPercentage": 10,
+    "brand": "Casio",
+    "color": "White",
+    "size": [
+      {
+        "name": "43mm",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d05fa41635dc4415dcc9f8"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61+EYDyV1aL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Watches",
+    "createdAt": {
+      "$date": "2024-08-29T11:46:44.315Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:46:44.315Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d060f71635dc4415dcca44",
+    "title": "POSHAX Men Shirt|| Shirt for Men|| Casual Shirt for Men (Bubble)",
+    "description": "Men Shirt|| Shirt for Men|| Casual Shirt for Men Style - Enhance your look by wearing this Casual Stylish Men's shirt, Team it with a pair of tapered denims Or Solid Chinos and Loafers for a fun Smart Casual look Please Noted - Only upper part of Only shirt is given Not inner t shirt and No any Accessories given Closure Type: Button; Collar Style: Printed Sleeve type:Half Sleeve",
+    "quantity": 30,
+    "price": 3999,
+    "discountedPrice": 399,
+    "discountPercentage": 90,
+    "brand": "Poshax",
+    "color": "Purple",
+    "size": [
+      {
+        "name": "M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d060f71635dc4415dcca45"
+        }
+      },
+      {
+        "name": "L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d060f71635dc4415dcca46"
+        }
+      },
+      {
+        "name": "XL",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d060f71635dc4415dcca47"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/710v8Tmr+IL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T11:52:23.995Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:52:23.995Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d061b21635dc4415dcca8d",
+    "title": "ZARA FASHION Men's Bomber Jacket, Lightweight Transition Jacket, Aviator Jackets, Spring, Autumn Blouson with Pockets",
+    "description": "Material: Nylon; Lightweight, Windbreaker, Breathable. Full zipper stand collar bomber jacket, The zipper head is on the left FEATURE: Rib Knit Cuffs, Waistband, Collar for comfort, Dual pen pockets on sleeve Suitable for: Outdoor, Casual, Sportwear, Working, Daily life, Hiking, Clubwear, Sports, Spring, Fall or other outdoor activities",
+    "quantity": 30,
+    "price": 3999,
+    "discountedPrice": 899,
+    "discountPercentage": 78,
+    "brand": "Zara",
+    "color": "Black",
+    "size": [
+      {
+        "name": "M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d061b21635dc4415dcca8e"
+        }
+      },
+      {
+        "name": "L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d061b21635dc4415dcca8f"
+        }
+      },
+      {
+        "name": "XL",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d061b21635dc4415dcca90"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61SD6NfzdpL._SX679_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T11:55:30.989Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T11:55:30.989Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d063341635dc4415dccae4",
+    "title": "SUPREME Men's Faux Leather Hooded Motorcycle Jacket, Zip-Up, with Pockets, Removable Hood",
+    "description": "Premium PU Leather: This jacket is crafted from high-quality faux leather, offering a stylish and durable alternative to genuine leather. Versatile Design: Featuring a zip-up closure and a removable hood, this jacket can effortlessly transition from casual to edgy looks. Motorcycle-Inspired Style: With its biker-inspired design, this jacket exudes a rugged and rebellious vibe, perfect for those seeking an edgy fashion statement. Functional Pockets: Equipped with multiple pockets, this jacket provides ample storage space for your essentials, ensuring convenience on the go.",
+    "quantity": 20,
+    "price": 4999,
+    "discountedPrice": 2099,
+    "discountPercentage": 58,
+    "brand": "Supreme",
+    "color": "Black",
+    "size": [
+      {
+        "name": "L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d063341635dc4415dccae5"
+        }
+      },
+      {
+        "name": "XL",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d063341635dc4415dccae6"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71PkKbZ0B7L._AC_UL330_SR330,330_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T12:01:56.373Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T12:01:56.373Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0641e1635dc4415dccb03",
+    "title": "Aahwan Women's & Girls' Solid High Waist Flare Leg Stretcheble Denim Jeans",
+    "description": "Material: Denim.Fit Type: Slim.Type : Jeans.Pants Style : Boot Cut Style.Material Composition : 95% Cotton, 5% Spandex. Features: High waisted, button and zipper fly, flare leg, solid color, full length, breathable and soft fabric.Length: 40.Sheer: No, Pattern Type: Solid/Plain. Ideal for casual daily, hanging out, weekend, shopping, going out, school, weekday, trip and other occasions",
+    "quantity": 30,
+    "price": 4999,
+    "discountedPrice": 999,
+    "discountPercentage": 80,
+    "brand": "Aahwan",
+    "color": "Blue",
+    "size": [
+      {
+        "name": "26",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0641e1635dc4415dccb04"
+        }
+      },
+      {
+        "name": "28",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0641e1635dc4415dccb05"
+        }
+      },
+      {
+        "name": "30",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0641e1635dc4415dccb06"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/614PwMCtYML._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T12:05:50.219Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T12:05:50.219Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d06dd31635dc4415dccb70",
+    "title": "GRECIILOOKS Womens Rayon Regular Fit Jeans Tops",
+    "description": "Product Detail:This stylish tops for women includes a women's casual top in comfortable rayon fabric. Festive Vibes: Greciilooks tops for women is used for Western Wear,birthday party wear, Office wear, casual wear, Beach Wear, Summer Wear, Hangouts, Picnic, Vacation Wear. Size Recommendation: Please use the infographic size chart guidance to determine your perfect size; a size large is recommended for a comfortable fit. Easy Pairing: This casual jeans Top for women is lightweight, breathable & made of soft fabric. It's easy to pair with jeans, shorts & skirt.",
+    "quantity": 20,
+    "price": 2299,
+    "discountedPrice": 349,
+    "discountPercentage": 85,
+    "brand": "GRECIILOOKS",
+    "color": "Black",
+    "size": [
+      {
+        "name": "S",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d06dd31635dc4415dccb71"
+        }
+      },
+      {
+        "name": "M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d06dd31635dc4415dccb72"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61MBb5pAOlL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T12:47:15.461Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T12:47:15.461Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d06e9b1635dc4415dccb91",
+    "title": "Uptownie Lite Women Stretchable Round Neck Sleeveless Regular Fit Crop Top",
+    "description": "Fit Type: Regular Neck Type: Round Neck Fabric: 95% Polyester, 5% Spandex; The fabric is very stretchy Style: Top Pattern: Solid",
+    "quantity": 30,
+    "price": 1599,
+    "discountedPrice": 390,
+    "discountPercentage": 76,
+    "brand": "Uptownie",
+    "color": "White",
+    "size": [
+      {
+        "name": "S",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d06e9b1635dc4415dccb92"
+        }
+      },
+      {
+        "name": "M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d06e9b1635dc4415dccb93"
+        }
+      },
+      {
+        "name": "L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d06e9b1635dc4415dccb94"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61mRmbJ-j3L._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T12:50:35.031Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T12:50:35.031Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0716f1ae450a275cc499c",
+    "title": "Puma For Men's Classic Loopknit Bomber Jacket with Zipper Closure and Side Pockets (Color Red)",
+    "description": "Fit and size: This bomber jacket has a slim and Regular fit that is neither too tight nor too loose Zip: Full Open lining zip, Pockets: Front Two Side Pockets Sleeve Type: Full Sleeve, Neck type: Bomber Neck, Zip: Full Open lining zip, Pockets: Front Two Side Pockets",
+    "quantity": 30,
+    "price": 1599,
+    "discountedPrice": 449,
+    "discountPercentage": 72,
+    "brand": "Puma",
+    "color": "Red",
+    "size": [
+      {
+        "name": "S",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0716f1ae450a275cc499d"
+        }
+      },
+      {
+        "name": "M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0716f1ae450a275cc499e"
+        }
+      },
+      {
+        "name": "L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0716f1ae450a275cc499f"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51IShE-YHDL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T13:02:39.793Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:02:39.793Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0723b1ae450a275cc49bd",
+    "title": "Zilcon Women Ribbed Solid Oversized Tshirt for Women | Oversize T-Shirts for Women | Women Boat Neck Short Batwing Sleeve Tops | Bagy Fit Women t Shirts",
+    "description": "Ribbed Boxy Style has a lining in the middle and Batwing Half Sleeve to avoid see-through, casual flowy fitting and versatile, you are able to tuck it in with jeans,looks great with almost anything. Match:This simple but eye-catching transitional piece can be styled with dark wash ankle skinnies and a neutral cutout wedge and tote, but you can also pair it with some colored flares. Suitable for all season,whatever spring,summer,autumn,winter.you can wear it all years to pair with shorts, jeans, or skinny pants in office,work,club,dating,travel or casual daily wear etc..",
+    "quantity": 30,
+    "price": 1999,
+    "discountedPrice": 449,
+    "discountPercentage": 78,
+    "brand": "Zilcon",
+    "color": "Yellow",
+    "size": [
+      {
+        "name": "S",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0723b1ae450a275cc49be"
+        }
+      },
+      {
+        "name": "M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0723b1ae450a275cc49bf"
+        }
+      },
+      {
+        "name": "L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0723b1ae450a275cc49c0"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51W+PGvCdlL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T13:06:03.606Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:06:03.606Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d072c51ae450a275cc49dd",
+    "title": "JVX Jeans for Men || Men Jeans || Men Jeans Pants || Denim Jeans (JEANS-01)",
+    "description": "Fabric:- Cotton Jeans || Print:- Solid Pants || Type:- Men's Jeans || Fit: Regular Fit Relaxed fit jeans which are easy through hip and thigh and straight from knee to ankle Classic 5 pocket styling Zip fly with button closure Style these Jeans with a polo and sneakers for a casual everyday look",
+    "quantity": 30,
+    "price": 2999,
+    "discountedPrice": 769,
+    "discountPercentage": 74,
+    "brand": "JVX",
+    "color": "Blue",
+    "size": [
+      {
+        "name": "28",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d072c51ae450a275cc49de"
+        }
+      },
+      {
+        "name": "30",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d072c51ae450a275cc49df"
+        }
+      },
+      {
+        "name": "34",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d072c51ae450a275cc49e0"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81WzIbilc9L._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Fashion",
+    "createdAt": {
+      "$date": "2024-08-29T13:08:21.630Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:08:21.630Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d073d81ae450a275cc4a07",
+    "title": "Samsung Galaxy Tab S9 FE 27.69 cm Display, RAM 6 GB, ROM 128 GB Expandable, S Pen in-Box, Wi-Fi, IP68 Tablet, Upto INR 7000 Bank Discount",
+    "description": "Outstanding vividness, 90 Hz Refresh Rate, 2304 x 1440 (WQXGA, 249 PPI) Powerful Performance with Exynos 1380 chip 8 MP Rear Camera, 12 MP Ultra wide Front camera, Dual Speakers by AKG Dual Sim pSIM + eSIM; Weatherproof & DurableTablet and S Pen with IP68 Battery Capacity: 8000 mAH",
+    "quantity": 30,
+    "price": 44999,
+    "discountedPrice": 34999,
+    "discountPercentage": 22,
+    "brand": "Samsung",
+    "color": "Gray",
+    "size": [
+      {
+        "name": "10.9inch",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d073d81ae450a275cc4a08"
+        }
+      },
+      {
+        "name": "12inch",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d073d81ae450a275cc4a09"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61gVQJ5Yy0L._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Electronics",
+    "createdAt": {
+      "$date": "2024-08-29T13:12:56.624Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:12:56.624Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d075ded7b937f8e4b3984b",
+    "title": "pTron USB-A to Micro USB 2.4A Fast Charging Cable compatible with Android Phones/Tablets, 480mbps Data Transfer Speed, Made in India, Solero M241 Tangle-free USB Cable",
+    "description": "Solero M241 data and charging cable is equipped with a Micro USB port, the cable supports up to 2.4Amps of power output for powering and fast charging your smart device. Charge & sync, this USB cable can charge and data sync simultaneously at 480Mbps speed, compatible with all devices with a Micro USB port. Core : Tinned Copper Durable PVC Outer Exterior: PVC cables are versatile, high in tensile strength, flexible, and good conductors.",
+    "quantity": 30,
+    "price": 100,
+    "discountedPrice": 89,
+    "discountPercentage": 11,
+    "brand": "pTron",
+    "color": "Black",
+    "size": [
+      {
+        "name": "1M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d075ded7b937f8e4b3984c"
+        }
+      },
+      {
+        "name": "1.2M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d075ded7b937f8e4b3984d"
+        }
+      },
+      {
+        "name": "1.5M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d075ded7b937f8e4b3984e"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51JVvqm1mAL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Electronics",
+    "createdAt": {
+      "$date": "2024-08-29T13:21:34.676Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:21:34.676Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0765dd7b937f8e4b3985e",
+    "title": "Portronics Adapto 66 2.4A 12w Dual USB Port 5V/2.4A Wall Charger,Comes with 1M Micro USB Cable, USB Wall Charger Adapter for iPhone 11/Xs/XS Max/XR/X/8/7/6/Plus, iPad Pro/Air 2/Mini 3/Mini 4, Samsung S4/S5, and More",
+    "description": "【Dual Port USB Wall Charger Adapter】This USB Charger with dual ports allow you to charge 2 devices at the same time with the total output of 2.4A current. Single port allows Max 2.4A current when connecting only one device. Much more convenient and save your time effectively. 【Safe Charging】With the intelligent chip inside, dual USB wall charger matches the current as your device's need automatically. Over-current, over-voltage and short-circuit protection also effectively protect your smartphones from damage.",
+    "quantity": 30,
+    "price": 499,
+    "discountedPrice": 209,
+    "discountPercentage": 58,
+    "brand": "Portronics",
+    "color": "Black",
+    "size": [
+      {
+        "name": "None",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0765dd7b937f8e4b3985f"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41UhCI6+p7L._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Electronics",
+    "createdAt": {
+      "$date": "2024-08-29T13:23:41.727Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:23:41.727Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0773ad7b937f8e4b39870",
+    "title": "MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast Power Delivery Charging | Input- Type C | Micro USB| Triple Output",
+    "description": "18W Fast Charging Triple port output Dual input port (Micro-USB/USB-C, Charging Time 6.9 hours Power Delivery Advanced 12 Layer chip protection Smart power management 6 months domestic warranty",
+    "quantity": 30,
+    "price": 2199,
+    "discountedPrice": 1799,
+    "discountPercentage": 18,
+    "brand": "MI",
+    "color": "Blue",
+    "size": [
+      {
+        "name": "18000mAh",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0773ad7b937f8e4b39871"
+        }
+      },
+      {
+        "name": "20000mAh",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0773ad7b937f8e4b39872"
+        }
+      },
+      {
+        "name": "25000mAh",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0773ad7b937f8e4b39873"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71lVwl3q-kL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Electronics",
+    "createdAt": {
+      "$date": "2024-08-29T13:27:22.080Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:27:22.080Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d07800d7b937f8e4b39883",
+    "title": "Portronics C-Konnect Type C to HDMI Adapter (3-in-1), Multiport USB C Hub with 4K@30Hz, USB 3.0 @ 5Gbps, 100 W PD Charging Port for Laptop, MacBook, PC and Other Type C Devices (White)",
+    "description": "bout this item [USAGE]- Project your Type-C Macbook, Google Chromebook Pixel, Dell XPS 13 within a few seconds. Display on a large screen of any HDMI port monitor like TV, Projector etc [USB 3.0 Port]-This port can deliver super-fast up to 5Gbps data transfer. Compatible with USB flash disk, mouse, keyboard, camera, removable hard disk or other USB A 3.0 / USB A 2.0 devices [CHARGE WHILE PROJECTING]- It provides continuous charging to your Type C device eradicating the low battery issues when projecting",
+    "quantity": 30,
+    "price": 2499,
+    "discountedPrice": 787,
+    "discountPercentage": 69,
+    "brand": "Portronics",
+    "color": "White",
+    "size": [
+      {
+        "name": "C-connect",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07800d7b937f8e4b39884"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51ag4s4oOwL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Electronics",
+    "createdAt": {
+      "$date": "2024-08-29T13:30:40.684Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:30:40.684Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0793ad7b937f8e4b39902",
+    "title": "Pigeon Healthifry Digital Air Fryer, 360° High Speed Air Circulation Technology 1200 W with Non-Stick 4.2 L Basket",
+    "description": "Bring your family together with the Pigeon HealthiFRY Digital Airfryer, the ultimate solution for healthier, faster, and more convenient cooking, creating delicious memories and fostering a love for wholesome cooking among all family members – enjoy guilt free healthy snacks! 8 PRESET MENUS: Take the guesswork out of cooking with 8 pre-set menus - French Fries, Paneer Tikka, Samosa, Vegetable Roast, Pizza, Cutlets/Nuggets, Cakes, and Chips. 360° USES 95% LESS OIL: Enjoy guilt-free indulgence with up to 95% less oil than traditional cooking methods",
+    "quantity": 30,
+    "price": 5995,
+    "discountedPrice": 2999,
+    "discountPercentage": 50,
+    "brand": "Pigeon",
+    "color": "Green",
+    "size": [
+      {
+        "name": "Digital",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0793ad7b937f8e4b39903"
+        }
+      },
+      {
+        "name": "Manual",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0793ad7b937f8e4b39904"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71NZiryyhbL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Home Appliances",
+    "createdAt": {
+      "$date": "2024-08-29T13:35:54.446Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:35:54.446Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d079dbd7b937f8e4b3991e",
+    "title": "AGARO Marvel Oven Toaster Griller, Cake Baking, Grilling, Toasting, OTG, 800 Watts",
+    "description": "Toast, Bake, Grill and more. Adjustable temperature from 100°C to 250°C. Adjustable timer up to 30 minutes. Hinged crumb tray at the bottom. Capacity: 9L, Power: 800W. Heat resistant tempered glass window. Automatic Thermostat I Auto Shut Off I Ready Bell. Includes: Main unit, bake pan, tray handle, oven rack.",
+    "quantity": 30,
+    "price": 2799,
+    "discountedPrice": 1899,
+    "discountPercentage": 32,
+    "brand": "AGARO",
+    "color": "Black",
+    "size": [
+      {
+        "name": "9L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d079dbd7b937f8e4b3991f"
+        }
+      },
+      {
+        "name": "12L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d079dbd7b937f8e4b39920"
+        }
+      },
+      {
+        "name": "15L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d079dbd7b937f8e4b39921"
+        }
+      },
+      {
+        "name": "20L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d079dbd7b937f8e4b39922"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71vJLCZBeoL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Home Appliances",
+    "createdAt": {
+      "$date": "2024-08-29T13:38:35.534Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:38:35.534Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d07b2fd7b937f8e4b399a1",
+    "title": "Pigeon Brewster Coffee Maker, 600 Watt, 4 Cups Drip Coffee maker",
+    "description": "Coffee Maker comes with Advanced brewing technology with mesh filter 600 Watt heating Plate, Anti drip mechanism Material Type: Plastic; Size Name: Standard; Human Interface Input: Buttons",
+    "quantity": 60,
+    "price": 2195,
+    "discountedPrice": 1099,
+    "discountPercentage": 50,
+    "brand": "Pigeon",
+    "color": "Black",
+    "size": [
+      {
+        "name": "400ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07b2fd7b937f8e4b399a2"
+        }
+      },
+      {
+        "name": "500ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07b2fd7b937f8e4b399a3"
+        }
+      },
+      {
+        "name": "600ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07b2fd7b937f8e4b399a4"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51q9WR-LfHL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Home Appliances",
+    "createdAt": {
+      "$date": "2024-08-29T13:44:15.389Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:44:15.389Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d07c00d7b937f8e4b39a08",
+    "title": "ACTIVA Easy Mix Nutri 2 Jar Mixer Grinder Powerful 500 Watt Motor | Long Lasting Shock Proof Abs Body | Heavy Duty Motor With Nano - Grinding Technology, come with 2 year warranty",
+    "description": "STAINLESS STEEL JARS AND BLADES: It Comes Equipped With High - Quality Stainless Steel Jars And Blades. Stainless Steel Fine Blades For Best Chopping, Grinding And Juicing. They Can Perfectly Blend Even The Harder Food Stuffs Very Easily. It is Hygienic and Easy to Clean as Well. 3 SPEED CONTROL & PULSE FUNCTION: This Mixer Grinder Comes With Powerful Blades And Variable Speed Settings. It Helps You to Choose The Speed You Want, It Also Features Pulse Button Which Allows You To Produce a Finer Texture. Once You Press Pulse Button, It Operates At Medium Speed And Stops Instantly When You Release The Button.",
+    "quantity": 60,
+    "price": 2990,
+    "discountedPrice": 1248,
+    "discountPercentage": 58,
+    "brand": "ACTIVA",
+    "color": "White",
+    "size": [
+      {
+        "name": "1L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07c00d7b937f8e4b39a09"
+        }
+      },
+      {
+        "name": "1.5L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07c00d7b937f8e4b39a0a"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61uE9aOtNzL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Home Appliances",
+    "createdAt": {
+      "$date": "2024-08-29T13:47:44.223Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:47:44.223Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d07cb1d7b937f8e4b39a22",
+    "title": "Adidas Men's Clinch-X M Running Shoe",
+    "description": "Upper: Mesh upper for lightweight and breathability. Midsole: lightstrike IMEVA midsole with visible adiprene providing protection from harmful impact forces.",
+    "quantity": 60,
+    "price": 2999,
+    "discountedPrice": 1467,
+    "discountPercentage": 51,
+    "brand": "Adidas",
+    "color": "Black",
+    "size": [
+      {
+        "name": "7",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07cb1d7b937f8e4b39a23"
+        }
+      },
+      {
+        "name": "8",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07cb1d7b937f8e4b39a24"
+        }
+      },
+      {
+        "name": "9",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07cb1d7b937f8e4b39a25"
+        }
+      },
+      {
+        "name": "10",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07cb1d7b937f8e4b39a26"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71sfbi31lhL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Footwear",
+    "createdAt": {
+      "$date": "2024-08-29T13:50:41.474Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:50:41.474Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d07d68d7b937f8e4b39a36",
+    "title": "Shoetopia Women's Heel-1900 Heeled Sandal",
+    "description": "Shoetopia is the leading manufacturer of Heels, sports shoes, Casual Shoes, sliders, sandals and slippers etc. For childrens, men’s & women’s. A stylish pair of Shoetopia Heels will elevate your look. This pair can be styled with a forrmal and casual dress for your next event. Shoetopia Brand regularly adds latest designs to its footwear collection. This is another masterpiece pair of Latest Fashionable Heels from the house of Shoetopia is extremely stylish it has Resin sole which gives extreme comfort during walking, it is available at most economical price.",
+    "quantity": 60,
+    "price": 999,
+    "discountedPrice": 599,
+    "discountPercentage": 40,
+    "brand": "Shoetopia",
+    "color": "White",
+    "size": [
+      {
+        "name": "7",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07d68d7b937f8e4b39a37"
+        }
+      },
+      {
+        "name": "8",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07d68d7b937f8e4b39a38"
+        }
+      },
+      {
+        "name": "9",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07d68d7b937f8e4b39a39"
+        }
+      },
+      {
+        "name": "10",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07d68d7b937f8e4b39a3a"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71Mp+Yo+vuL._AC_UL100_SR100,100_.jpg",
+    "numRatings": 0,
+    "category": "Footwear",
+    "createdAt": {
+      "$date": "2024-08-29T13:53:44.611Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:53:44.611Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d07e2ed7b937f8e4b39a4b",
+    "title": "Shoetopia Looks Fancy & Comfortable Block Heel Sandal with Ankle Strap for women & Girls",
+    "description": "Premium Quality Synthetic Leather & Stylish Design makes for Beautiful , Casual, Ethnic Wear Slippers Fashion Slippers Soft Bottom & Inner Material Ensures Lasting Comfort Style up your daily wardrobe with this pair of slip on slippers for women Closure:Strap Heel Height -2.5 Stylish And Classic Design",
+    "quantity": 60,
+    "price": 2367,
+    "discountedPrice": 869,
+    "discountPercentage": 63,
+    "brand": "Shoetopia",
+    "color": "Black",
+    "size": [
+      {
+        "name": "7",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07e2ed7b937f8e4b39a4c"
+        }
+      },
+      {
+        "name": "8",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07e2ed7b937f8e4b39a4d"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/31hHWSfB0vL._AC_UF480,480_SR480,480_.jpg",
+    "numRatings": 0,
+    "category": "Footwear",
+    "createdAt": {
+      "$date": "2024-08-29T13:57:02.625Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T13:57:02.625Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d07f26d7b937f8e4b39a6e",
+    "title": "adidas mens Ford-forward Running Shoe",
+    "description": "Whether it's race day or practice, you want to feel fast on your feet. These adidas running shoes are made to help you reach the finish line with a personal record. The lightweight textile upper keeps your feet comfortable every step of the way cushions your ride. Cushioning brings comfort to training runs and race day, while an Rubber outsole grips to the track or pavement.",
+    "quantity": 60,
+    "price": 5999,
+    "discountedPrice": 3059,
+    "discountPercentage": 49,
+    "brand": "Adidas",
+    "color": "White",
+    "size": [
+      {
+        "name": "7",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07f26d7b937f8e4b39a6f"
+        }
+      },
+      {
+        "name": "8",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07f26d7b937f8e4b39a70"
+        }
+      },
+      {
+        "name": "9",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d07f26d7b937f8e4b39a71"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61Riag08X9L._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Footwear",
+    "createdAt": {
+      "$date": "2024-08-29T14:01:10.257Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:01:10.257Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08021d7b937f8e4b39a89",
+    "title": "NIKE Mens Court Vision Lo Nn Running Shoes",
+    "description": "Designed for comfortable wear for sports and street style, NIKE is always fun to wear. Upgrade in style with a wide range from the world’s leading and much-loved sports brand, NIKE.",
+    "quantity": 60,
+    "price": 7095,
+    "discountedPrice": 6737,
+    "discountPercentage": 5,
+    "brand": "Nike",
+    "color": "Grey",
+    "size": [
+      {
+        "name": "7",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08021d7b937f8e4b39a8a"
+        }
+      },
+      {
+        "name": "8",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08021d7b937f8e4b39a8b"
+        }
+      },
+      {
+        "name": "9",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08021d7b937f8e4b39a8c"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51G4BTHctYL._SY695_.jpg",
+    "numRatings": 0,
+    "category": "Footwear",
+    "createdAt": {
+      "$date": "2024-08-29T14:05:21.054Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:05:21.054Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d080d1d7b937f8e4b39ac4",
+    "title": "SOLO Men's Classic Ultra Soft Sliders/Slippers with Cushion FootBed for Adult | Comfortable & Light Weight | Stylish & Anti-Skid | Waterproof & Everyday Flip Flops for Gents/Boys D-504",
+    "description": "The Design of these Doctor Extra Soft Slides is Simple and Classic, with a Slip-on Style that Makes them Easy to Wear & Remove. The Men's Classic Ultra Soft Slippers are Ideal for Everyday Use & Pair Well with All Kinds of Outfits. These Flip Flops are Easy to take on & off while being Extremely Durable. These Ultra Soft Sliders has Spongy Cushion Footbed Which Gives Extra Comfort & are Made with Water-Resistant Material, Making these Perfect for Wear in Wet/Damp Conditions",
+    "quantity": 60,
+    "price": 1799,
+    "discountedPrice": 695,
+    "discountPercentage": 61,
+    "brand": "Solo",
+    "color": "Green",
+    "size": [
+      {
+        "name": "7",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d080d1d7b937f8e4b39ac5"
+        }
+      },
+      {
+        "name": "8",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d080d1d7b937f8e4b39ac6"
+        }
+      },
+      {
+        "name": "9",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d080d1d7b937f8e4b39ac7"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61JCqg3BNFL._SY695_.jpg",
+    "numRatings": 0,
+    "category": "Footwear",
+    "createdAt": {
+      "$date": "2024-08-29T14:08:17.861Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:08:17.861Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08161d7b937f8e4b39ae9",
+    "title": "BRUTON Sandals for Men's | Light Weight, & Trendy | Soft Footbed | Casual and Stylish Sandals for Walking, Working All Day",
+    "description": "Adjustable straps with starps for a secure and personalized fit Lightweight EVA sole for enhanced comfort and flexibility Sleek black and white design with a sporty aestheticSuitable for various sports activities and casual wear Durable build ensures long-lasting performance",
+    "quantity": 60,
+    "price": 1299,
+    "discountedPrice": 279,
+    "discountPercentage": 79,
+    "brand": "BRUTON",
+    "color": "Black",
+    "size": [
+      {
+        "name": "7",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08161d7b937f8e4b39aea"
+        }
+      },
+      {
+        "name": "8",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08161d7b937f8e4b39aeb"
+        }
+      },
+      {
+        "name": "9",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08161d7b937f8e4b39aec"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/81CAqhMnPDL._SY695_.jpg",
+    "numRatings": 0,
+    "category": "Footwear",
+    "createdAt": {
+      "$date": "2024-08-29T14:10:41.214Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:10:41.214Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08480d7b937f8e4b39b51",
+    "title": "Apple iPhone 15 - Pink",
+    "description": "iPhone 15 features a durable color-infused glass and aluminum design. It’s splash, water, and dust resistant. The Ceramic Shield front is tougher than any smartphone glass. And the 6.1 Super Retina XDR display is up to 2x brighter in the sun compared to iPhone 14. 48MP MAIN CAMERA WITH 2X TELEPHOTO — The 48MP Main camera shoots in super-high resolution. So it’s easier than ever to take standout photos with amazing detail. The 2x optical-quality Telephoto lets you frame the perfect close-up.",
+    "quantity": 60,
+    "price": 79900,
+    "discountedPrice": 71290,
+    "discountPercentage": 11,
+    "brand": "Apple",
+    "color": "Pink",
+    "size": [
+      {
+        "name": "128GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08480d7b937f8e4b39b52"
+        }
+      },
+      {
+        "name": "256GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08480d7b937f8e4b39b53"
+        }
+      },
+      {
+        "name": "512GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08480d7b937f8e4b39b54"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71v2jVh6nIL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Smartphones",
+    "createdAt": {
+      "$date": "2024-08-29T14:24:00.709Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:24:00.709Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d085f4d7b937f8e4b39b62",
+    "title": "Apple iPhone 15 Pro Max",
+    "description": "iPhone 15 Pro Max, a titanium marvel, boasts an aerospace-grade build, making it the lightest Pro model ever. The A17 Pro Chip marks a historic leap in Apple GPUs, delivering unparalleled graphics performance and immersive gaming experiences. The camera system shines with a 48 MP Main camera, offering remarkable detail and automatic portrait enhancements. Convenience is key with the Action button for quick tasks and Focus filters.",
+    "quantity": 60,
+    "price": 154000,
+    "discountedPrice": 139990,
+    "discountPercentage": 9,
+    "brand": "Apple",
+    "color": "White",
+    "size": [
+      {
+        "name": "128GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d085f4d7b937f8e4b39b63"
+        }
+      },
+      {
+        "name": "256GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d085f4d7b937f8e4b39b64"
+        }
+      },
+      {
+        "name": "512GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d085f4d7b937f8e4b39b65"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81c50PU+lpL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Smartphones",
+    "createdAt": {
+      "$date": "2024-08-29T14:30:12.703Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:30:12.703Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08745d7b937f8e4b39b9c",
+    "title": "Samsung Galaxy Z Fold6 5G AI Smartphone (12GB RAM)",
+    "description": "Galaxy AI is Here - Put PC-like power in your pocket, Galaxy Z Fold6. More powerful than ever with its super-slim, productive screen. Now super-charged with Galaxy AI on foldables. Fold open a mobile gaming beast with a massive screen made better with the Vision Booster's powerful brightness and clarity even in broad daylight.",
+    "quantity": 60,
+    "price": 164999,
+    "discountedPrice": 164999,
+    "discountPercentage": 0,
+    "brand": "Samsung",
+    "color": "Grey",
+    "size": [
+      {
+        "name": "512GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08745d7b937f8e4b39b9d"
+        }
+      },
+      {
+        "name": "1TB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08745d7b937f8e4b39b9e"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61Hhrr0bFWL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Smartphones",
+    "createdAt": {
+      "$date": "2024-08-29T14:35:49.176Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:35:49.176Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d087ded7b937f8e4b39bbe",
+    "title": "Sony Wireless Controller (PlayStation 5)",
+    "description": "Bring gaming worlds to life - a) feel your in-game actions and Environment simulated through haptic feedback2, b)experience varying force and tension at your fingertips with adaptive triggers2;Chat online through the built-in microphone3, connect a headset directly via the 3.5mm jack, Switch voice capture on & off using the dedicated mute button, record & broadcast your epic gaming moments.",
+    "quantity": 60,
+    "price": 5990,
+    "discountedPrice": 5649,
+    "discountPercentage": 6,
+    "brand": "Sony",
+    "color": "White",
+    "size": [
+      {
+        "name": "Non-DualSense",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d087ded7b937f8e4b39bbf"
+        }
+      },
+      {
+        "name": "DualSense",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d087ded7b937f8e4b39bc0"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41lHL5XiiDL._AC_UL232_SR232,232_.jpg",
+    "numRatings": 0,
+    "category": "Electronics",
+    "createdAt": {
+      "$date": "2024-08-29T14:38:22.887Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:38:22.887Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d088b5d7b937f8e4b39bf0",
+    "title": "Samsung Galaxy S21 FE 5G (8GB RAM) with Snapdragon 888 Processor",
+    "description": " 12MP F1.8 Main Camera (Dual Pixel AF & OIS) + 12MP UltraWide Camera (123° FOV) + 8MP Telephoto Camera (3x Optic Zoom, 30X Space Zoom, OIS) | 32 MP F2.2 Front Camera 16.28cm (6.4-inch) Dynamic AMOLED 2X Display with 120Hz Refresh rate for Smooth scrolling. Intelligent Eye Comfort Shield, New 19.5:9 Screen Ratio with thinner bezel, 1080x2340 (FHD+) Resolution",
+    "quantity": 60,
+    "price": 74999,
+    "discountedPrice": 25499,
+    "discountPercentage": 66,
+    "brand": "Samsung",
+    "color": "Black",
+    "size": [
+      {
+        "name": "128GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d088b5d7b937f8e4b39bf1"
+        }
+      },
+      {
+        "name": "256GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d088b5d7b937f8e4b39bf2"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81vqHyDCSCL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Smartphones",
+    "createdAt": {
+      "$date": "2024-08-29T14:41:57.586Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:41:57.586Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d089cfd7b937f8e4b39c5b",
+    "title": "OnePlus 12 (16GB RAM)",
+    "description": "Pro-Level Hasselblad Camera System: Primary 50MP Sony's LYT-808 with OIS - 64 MP 3X Periscope Telephoto for studio-level portraits - 48 MP Ultra-wide 114° Fov Elite, Long-lasting Performance - Qualcomm Snapdragon 8 Gen 3 Mobile Platform - Software-assisted platform for Optimization - Keep apps active for up to 72 hours without reloading - Up to 3 hours of heavy gaming Pristine 2K Display with Aqua Touch: - 2K 120 Hz ProXDR Display with advanced LTPO for brighter, more vibrant visuals - Eye Care certified by TÜV Rheinland - Aqua Touch helps you stay swiping, even with wet hands",
+    "quantity": 60,
+    "price": 69999,
+    "discountedPrice": 69999,
+    "discountPercentage": 0,
+    "brand": "OnePlus",
+    "color": "Green",
+    "size": [
+      {
+        "name": "256GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d089cfd7b937f8e4b39c5c"
+        }
+      },
+      {
+        "name": "512GB",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d089cfd7b937f8e4b39c5d"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61BAuSC0UnL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Smartphones",
+    "createdAt": {
+      "$date": "2024-08-29T14:46:39.893Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:46:39.893Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08ae5d7b937f8e4b39c87",
+    "title": "boAt BassHeads 100 in-Ear Wired Headphones with Mic",
+    "description": "The perfect way to add some style and stand out from the crowd with the boAt BassHeads 100 Hawk inspired earphones;The stylish BassHeads 100 superior coated wired earphones are a definite fashion statement - wear your attitude with its wide variety of collection The powerful 10mm dynamic driver with the speaker resistance of 16 ohm enables the earphone to deliver a punchy, rhythmic response to the most demanding tracks",
+    "quantity": 60,
+    "price": 999,
+    "discountedPrice": 329,
+    "discountPercentage": 67,
+    "brand": "boAt",
+    "color": "Black",
+    "size": [
+      {
+        "name": "1M",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08ae5d7b937f8e4b39c88"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41Qg6YkjaEL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Music",
+    "createdAt": {
+      "$date": "2024-08-29T14:51:17.164Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:51:17.164Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08b97d7b937f8e4b39c96",
+    "title": "Apple AirPods Pro with MagSafe Case (USB‑C) ​​​​​​",
+    "description": "The speakers inside the EarPods have been engineered to maximise sound output, which means you get high-quality audio. The EarPods (USB-C) also include a built-in remote that lets you adjust the volume, control the playback of music and video, and answer or end calls with a press of the remote. Designed by Apple Deeper, richer bass tones",
+    "quantity": 60,
+    "price": 24990,
+    "discountedPrice": 22999,
+    "discountPercentage": 67,
+    "brand": "Apple",
+    "color": "White",
+    "size": [
+      {
+        "name": "2nd Gen",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08b97d7b937f8e4b39c97"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61SUj2aKoEL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Music",
+    "createdAt": {
+      "$date": "2024-08-29T14:54:15.033Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:54:15.033Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08c6ed7b937f8e4b39cad",
+    "title": "Sony WH-CH520, Wireless On-Ear Bluetooth Headphones with Mic, Upto 50 Hours Playtime, DSEE Upscale, Multipoint Connectivity/Dual Pairing,Voice Assistant App Support for Mobile Phones​​​​​​",
+    "description": "With up to 50-hour battery life and quick charging, you ll have enough power for multi-day road trips and long festival weekends.;Great sound quality customizable to your music preference with EQ Custom on the Sony | Headphones Connect App. Boost the quality of compressed music files and enjoy streaming music with high quality sound through DSEE.;Designed to be lightweight and comfortable for all-day use.",
+    "quantity": 60,
+    "price": 5990,
+    "discountedPrice": 4489,
+    "discountPercentage": 25,
+    "brand": "Sony",
+    "color": "Blue",
+    "size": [
+      {
+        "name": "Dolby Atmos",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08c6ed7b937f8e4b39cae"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41JACWT-wWL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Music",
+    "createdAt": {
+      "$date": "2024-08-29T14:57:50.223Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T14:57:50.223Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08d56d7b937f8e4b39cc0",
+    "title": "boAt Stone 620 Bluetooth Speaker with 12W RMS Stereo Sound, 10HRS Playtime, TWS Feature, IPX4, Multi-Compatibility Mode",
+    "description": "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. Frequency - 120Hz-20KHz;It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time: 3h The IPX4 marked water and splash resistant build lets you carry your sound wherever travel without any worry.;The speaker offers up to a total of 10 hours of playtime per single charge via Type C interface at 60% volume level.",
+    "quantity": 20,
+    "price": 3990,
+    "discountedPrice": 1959,
+    "discountPercentage": 51,
+    "brand": "boAt",
+    "color": "Black",
+    "size": [
+      {
+        "name": "Wireless Charging",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08d56d7b937f8e4b39cc1"
+        }
+      },
+      {
+        "name": "Wired Charging",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08d56d7b937f8e4b39cc2"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61oSoHc7VtL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Music",
+    "createdAt": {
+      "$date": "2024-08-29T15:01:42.933Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:01:42.933Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08e62d7b937f8e4b39ce6",
+    "title": "Wesley Milestone 2.0 15.6 inch 30 L Casual Waterproof Laptop Backpack/Office Bag/School Bag/College Bag/Business Bag/Unisex Travel Backpack",
+    "description": "Multi-Level Organizer: The backpack has a front zipper pocket for the ID card, Sanitizer, House keys, Pen. First compartment with pockets for the earphones, pens, notebook, Fitness Band. Spacious second compartment for all your electronics. Ergonomic Design: Thick cushioning around the shoulders and on the back panel makes the backpack super light and comfortable on the move. “S” Shaped shoulder strap distribute the weight of the backpack across your upper body.",
+    "quantity": 20,
+    "price": 1199,
+    "discountedPrice": 499,
+    "discountPercentage": 58,
+    "brand": "Wesley",
+    "color": "Green",
+    "size": [
+      {
+        "name": "30L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08e62d7b937f8e4b39ce7"
+        }
+      },
+      {
+        "name": "32L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08e62d7b937f8e4b39ce8"
+        }
+      },
+      {
+        "name": "35L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08e62d7b937f8e4b39ce9"
+        }
+      }
+    ],
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81Yjmayg+ZL._AC_UL200_SR200,200_.jpg",
+    "numRatings": 0,
+    "category": "Backpacks",
+    "createdAt": {
+      "$date": "2024-08-29T15:06:10.906Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:06:10.906Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08ed1d7b937f8e4b39cf7",
+    "title": "Urban Jungle by Safari Venture Workpack Water Resistant, L-Open, Premium Polyester Laptop Backpack",
+    "description": "Premium High-Strength Fabric: Crafted from premium, lightweight polyester fabric, this olive backpack offers exceptional durability and water resistance, while the vibrant orange highlights make it extremely easy on the eyes. The easy-to-clean material ensures your backpack remains pristine, no matter where your journey takes you. Easy Access: This backpack features a unique fold-top opening for maximum storage and a secure strap closure for adjustable volume.",
+    "quantity": 20,
+    "price": 10799,
+    "discountedPrice": 4995,
+    "discountPercentage": 54,
+    "brand": "Safari",
+    "color": "Grey",
+    "size": [
+      {
+        "name": "23L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08ed1d7b937f8e4b39cf8"
+        }
+      },
+      {
+        "name": "25L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08ed1d7b937f8e4b39cf9"
+        }
+      },
+      {
+        "name": "30L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08ed1d7b937f8e4b39cfa"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61jI4jxdGmL._SX679_.jpg",
+    "numRatings": 0,
+    "category": "Backpacks",
+    "createdAt": {
+      "$date": "2024-08-29T15:08:01.551Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:08:01.551Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08f46d7b937f8e4b39d08",
+    "title": "Fur Jaden 55 LTR Rucksack Travel Backpack Bag for Trekking, Hiking with Shoe Compartment",
+    "description": "Large sized black and grey colour trekking rucksack for men and women for travel use as well as for trendy college and school students. Huge compartment size that can fit upto several pairs of clothes with ease with separate pocket for shoesMultiple pockets for other accessories and water bottle. External clips to hold a yoga mat on the backside available with this rucksack. Also available on both sides of the rucksack are additional clips which can be used to carry camera stands as well as other climbing equipments",
+    "quantity": 20,
+    "price": 2500,
+    "discountedPrice": 849,
+    "discountPercentage": 66,
+    "brand": "Jaden",
+    "color": "Grey",
+    "size": [
+      {
+        "name": "38L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08f46d7b937f8e4b39d09"
+        }
+      },
+      {
+        "name": "45L",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08f46d7b937f8e4b39d0a"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/71GxZAYa6UL._SX679_.jpg",
+    "numRatings": 0,
+    "category": "Backpacks",
+    "createdAt": {
+      "$date": "2024-08-29T15:09:58.413Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:09:58.413Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d08fe1d7b937f8e4b39d20",
+    "title": "Fashion Frill Stylish Silver Bracelet For Boys Criss Cross Stainless Steel Silver Bracelet For Men Boys Love Gifts Mens Accessories Bracelets",
+    "description": "Material: Made from high-quality stainless steel, this silver bracelet is built to withstand daily wear and tear, ensuring longevity and resilience. Note-Pure surgical stainless steel is used to make this product, which doesnt cause any harm to skin. Nickel free and Lead free as per International Standards. Design: The sleek and minimalist design of the bracelet makes it a versatile accessory that complements any outfit, whether casual or formal.",
+    "quantity": 20,
+    "price": 999,
+    "discountedPrice": 239,
+    "discountPercentage": 76,
+    "brand": "Frill",
+    "color": "Black",
+    "size": [
+      {
+        "name": "15g",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d08fe1d7b937f8e4b39d21"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61vfipvWkLL._SY695_.jpg",
+    "numRatings": 0,
+    "category": "Accessories",
+    "createdAt": {
+      "$date": "2024-08-29T15:12:33.388Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:12:33.388Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d09095d7b937f8e4b39d29",
+    "title": "Peter England Mens Cotton Ankle Length Socks",
+    "description": "These Cotton Rich Socks are one of the finest from Peter England, to suit your attire on all occasions.",
+    "quantity": 20,
+    "price": 999,
+    "discountedPrice": 239,
+    "discountPercentage": 76,
+    "brand": "Peter England",
+    "color": "Dark Grey, Navy, Black",
+    "size": [
+      {
+        "name": "Pack of 3",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d09095d7b937f8e4b39d2a"
+        }
+      },
+      {
+        "name": "Pack of 6",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d09095d7b937f8e4b39d2b"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/51P0U7RknsL._SX679_.jpg",
+    "numRatings": 0,
+    "category": "Accessories",
+    "createdAt": {
+      "$date": "2024-08-29T15:15:33.341Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:15:33.341Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d0912cd7b937f8e4b39d38",
+    "title": "Park Avenue Euphoria, Eau De Parfum Men, Long Lasting Perfume Spray For Men Premium Luxury Fragrance Scent Aromatic Blend Of Amber & Musk Suitable For Every Occasion",
+    "description": "LONG LASTING FRAGRANCE: Unleash your X factor with this distinguished perfume designed for the dynamic and self-assured man. The lingering scent is perfect for making a powerful statement AMAZING NOTES, UNFORGETTABLE FRAGRANCE: Crafted by Global Perfumers, this luxury perfume for men boasts the pulsating energy of feisty orange flowers and fruity top notes, seamlessly merging into an aromatic blend of amber and musk",
+    "quantity": 20,
+    "price": 749,
+    "discountedPrice": 322,
+    "discountPercentage": 57,
+    "brand": "Park Avenue",
+    "color": "Black",
+    "size": [
+      {
+        "name": "20ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0912cd7b937f8e4b39d39"
+        }
+      },
+      {
+        "name": "50ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0912cd7b937f8e4b39d3a"
+        }
+      },
+      {
+        "name": "100ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d0912cd7b937f8e4b39d3b"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61zBq6pkFFL._SX679_.jpg",
+    "numRatings": 0,
+    "category": "Accessories",
+    "createdAt": {
+      "$date": "2024-08-29T15:18:04.886Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:18:04.886Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "66d091add7b937f8e4b39d53",
+    "title": "Bella Vita Luxury G.O.A.T Man Eau De Parfum Perfume with Bergamot, Patchouli & Vetiver|Premium, Long Lasting Spicy & Woody Fragrance for Men",
+    "description": "Spray the perfume on your pulse points (sides of the neck and both wrists) for all-day freshness",
+    "quantity": 20,
+    "price": 799,
+    "discountedPrice": 599,
+    "discountPercentage": 25,
+    "brand": "Bella Vita",
+    "color": "Yellow",
+    "size": [
+      {
+        "name": "50ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d091add7b937f8e4b39d54"
+        }
+      },
+      {
+        "name": "100ml",
+        "quantity": 10,
+        "_id": {
+          "$oid": "66d091add7b937f8e4b39d55"
+        }
+      }
+    ],
+    "imageUrl": "https://m.media-amazon.com/images/I/61OSRPmoUSL._SX569_.jpg",
+    "numRatings": 0,
+    "category": "Accessories",
+    "createdAt": {
+      "$date": "2024-08-29T15:20:13.203Z"
+    },
+    "updatedAt": {
+      "$date": "2024-08-29T15:20:13.203Z"
+    },
+    "__v": 0
+  },{
+  "_id": "66d9c40b15352bba1fd703eb",
+  "title": "mobistyle Designed for iPhone Cover Soft Liquid Silicone Slim Protective Shockproof with Anti-Scratch Microfiber Lining Phone Back Cover Case",
+  "description": "This Case Raised around the help protect Protection Camera, Precise cutting can protect each camera hole. Protect the camera more securely than other phone cases. Against scratches and daily wear and tear.",
+  "quantity": 20,
+  "price": 999,
+  "discountedPrice": 284,
+  "discountPercentage": 72,
+  "brand": "Mobistyle",
+  "color": "Pink",
+  "size": [
+    {
+      "name": "iPhonne 14",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9c40b15352bba1fd703ec"
+      }
+    },
+    {
+      "name": "iPhonne 15",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9c40b15352bba1fd703ed"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/611-VHD+exL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Accessories",
+  "createdAt": {
+    "$date": "2024-09-05T14:45:31.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T14:45:31.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9e8ef8cc1534011c6330e",
+  "title": "CEDO Nothing Phone (1) (5G) Back Cover | Camera Bump Protection & Inner Velvet Fabric Lining | Ultra Slim Matte Soft Rubberised Case Cover",
+  "description": "ANTI-SHATTER: Advance shock absorption protection from drops and bumps. Raised lips protect the screen and camera bump. Unique Look featuring Smooth Silk Brushed texture, glossy accents and carbon fibre texture.",
+  "quantity": 10,
+  "price": 999,
+  "discountedPrice": 149,
+  "discountPercentage": 85,
+  "brand": "Cedo",
+  "color": "Black",
+  "size": [
+    {
+      "name": "Silicone",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9e8ef8cc1534011c6330f"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61bqitrbuqL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Accessories",
+  "createdAt": {
+    "$date": "2024-09-05T17:22:55.142Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:22:55.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9e9778cc1534011c63320",
+  "title": "ELV Mobile Phone Mount Tabletop Holder for Phones and Tablets - Black",
+  "description": "Metal Phone Stand for Mobile Phones and Tablets SHINING BLACK METAL IPHONE STAND : Shining black metal iphone stand,with lightweight and the ipad stand is portable and edgy,it perfectly work with iphone. PHONE DESK STAND : Phone desk stand is universal perfectly compatible with as majority of smartphones and tablets,such as iphone ipad mini, Although with case,when using an iPad, you should set it horizontally,it will also works well.",
+  "quantity": 10,
+  "price": 89,
+  "discountedPrice": 59,
+  "discountPercentage": 34,
+  "brand": "ELV",
+  "color": "Black",
+  "size": [
+    {
+      "name": "M",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9e9778cc1534011c63321"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61RGJpcuU0L._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Accessories",
+  "createdAt": {
+    "$date": "2024-09-05T17:25:11.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:25:11.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9eb4d8cc1534011c6334e",
+  "title": "Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop",
+  "description": "Reliable Wireless Connection : Enjoy a wireless connection up to 10m away thanks to a plug-and-forget USB mini-receiver Optical Tracking : The advanced optical tracking features enable ultra precise moves on almost any surface. Required: available USB port, Windows 7, 8, 10 or later, macOS 10.5 or later, Chrome OS, Linux Kernel 2.6+ 12-Month Battery Life : Don’t worry about constant battery changes as this wired Logitech mouse has a 12-month battery life.",
+  "quantity": 10,
+  "price": 795,
+  "discountedPrice": 595,
+  "discountPercentage": 25,
+  "brand": "Logitech",
+  "color": "Black",
+  "size": [
+    {
+      "name": "B170",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9eb4d8cc1534011c6334f"
+      }
+    },
+    {
+      "name": "M186",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9eb4d8cc1534011c63350"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/516LU0H963L._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Accessories",
+  "createdAt": {
+    "$date": "2024-09-05T17:33:01.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:33:01.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9ebc08cc1534011c63365",
+  "title": "STRIFF Mpad Mouse Mat 230X190X3mm Gaming Mouse Pad, Non-Slip Rubber Base, Waterproof Surface, Premium-Textured, Compatible with Laser and Optical Mice",
+  "description": "The mouse pad has a specially designed speed type surface that allows for fast and precise mouse movements, making it ideal for gamers and professionals who require high levels of accuracy and speed in their work.",
+  "quantity": 10,
+  "price": 1299,
+  "discountedPrice": 109,
+  "discountPercentage": 92,
+  "brand": "STRIFF",
+  "color": "Black",
+  "size": [
+    {
+      "name": "S",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ebc08cc1534011c63366"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ebc08cc1534011c63367"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ebc08cc1534011c63368"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61zroMjd9FL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Accessories",
+  "createdAt": {
+    "$date": "2024-09-05T17:34:56.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:34:56.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9ecb58cc1534011c63394",
+  "title": "ASUS TUF F15 Gaming Laptop, Intel Core i5-11400H 11th Gen, FHD 144Hz,(16GB RAM/512GB SSD/4GB NVIDIA GeForce RTX 2050/Windows 11/ RGB Backlit KB/2.30 kg), FX506HF-HN025W",
+  "description": "Processor: Intel Core i5-11400H Processor 2.7 GHz (12M Cache, up to 4.5 GHz, 6 Cores) efficient multitasking, Improved multimedia tasks etc. Storage: 512GB PCIe 3.0 NVMe M.2 SSD with additional 1x M.2 Slot for SSD Storage expansion |Memory: 16GB SO-DIMM DDR4 3200MHz Support Up to 32GB 2x SO-DIMM slots.Display: 144Hz Refresh Rate, 15.6 inch (39.62 cms) FHD (1920 x 1080) 16:9 250nits,vIPS-level Anti-glare display, Contrast Ratio: 1000:1 with Adaptive-Sync",
+  "quantity": 10,
+  "price": 80990,
+  "discountedPrice": 51990,
+  "discountPercentage": 36,
+  "brand": "ASUS",
+  "color": "Black",
+  "size": [
+    {
+      "name": "15.6inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ecb58cc1534011c63395"
+      }
+    },
+    {
+      "name": "16inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ecb58cc1534011c63396"
+      }
+    },
+    {
+      "name": "17inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ecb58cc1534011c63397"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71l1MOx3Q+L._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Laptops",
+  "createdAt": {
+    "$date": "2024-09-05T17:39:01.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:39:01.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9ee898cc1534011c633ac",
+  "title": "Lenovo [Smartchoice] LOQ 12th Gen Intel Core i5-12450HX /39.6cm/ 144Hz 300Nits FHD Gaming Laptop (16GB/512GB SSD/Win 11/ RTX 3050 6GB Graphics/100% sRGB/MSO 21/3 Mon Game Pass/2.4Kg), 83GS003UIN",
+  "description": "Processor: Intel Core i5-12450HX | Speed: 2.4GHz (Base) - 4.4GHz (Max) | 8 Cores | 12 Threads | 12MB Cache Display: HD(1920x1080) IPS Technology | 144 Hz Refresh Rate | 100pct. sRGB |Brightness: 300Nits Anti-glare || Connectivity : Wifi 6E 11ax (2x2) | Bluetooth 5.2 Memory: 16GB RAM DDR5-4800 | Storage: 512GB SSD (Expandable upto 1TB)",
+  "quantity": 10,
+  "price": 95890,
+  "discountedPrice": 69490,
+  "discountPercentage": 28,
+  "brand": "Lenovo",
+  "color": "Grey",
+  "size": [
+    {
+      "name": "15.6inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ee898cc1534011c633ad"
+      }
+    },
+    {
+      "name": "16inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ee898cc1534011c633ae"
+      }
+    },
+    {
+      "name": "17inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9ee898cc1534011c633af"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81tmCrtiRgL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Laptops",
+  "createdAt": {
+    "$date": "2024-09-05T17:46:49.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:46:49.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9efa78cc1534011c633cd",
+  "title": "HP Laptop 15s, AMD Ryzen 3 5300U, FHD, 8GB DDR4, 512GB SSD, AMD Radeon Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, 1.69 kg), eq2212AU",
+  "description": "4-core AMD Ryzen 3 5300U?8 threads and 4MB L3 cache deliver powerful performance and swift responsiveness. The AMD Radeon graphics help you experience crisp visuals with vivid clarity.;?Upgraded memory and storage?8GB DDR4 RAM integrates a higher-bandwidth memory for smooth functioning. The high-speed 512GB PCIe NVMe M.2 SSD creates more room to work with ample storage.",
+  "quantity": 10,
+  "price": 44999,
+  "discountedPrice": 32490,
+  "discountPercentage": 27,
+  "brand": "Hp",
+  "color": "Silver",
+  "size": [
+    {
+      "name": "14inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9efa78cc1534011c633ce"
+      }
+    },
+    {
+      "name": "15.6inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9efa78cc1534011c633cf"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71DRVwvDALL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Laptops",
+  "createdAt": {
+    "$date": "2024-09-05T17:51:35.553Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:51:35.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f0768cc1534011c633f6",
+  "title": "Dell 15 Thin & Light Laptop, Intel Core i5-1334U Processory, Backlit KB, Windows 11 + MSO'21, 15 Months McAfee, 1.65kg",
+  "description": "Processor: Intel Core i5-1334U (Up to 4.60GHz, 12MB, 10 Cores) RAM: 16 GB: 2 x 8 GB, DDR4, 2666 MT/s & Storage: 1TB SSD Display : FHD WVA AG Narrow Border 120Hz 250 nits Keyboard: Backlit Keyboard Ports: 1 USB 3.2 Gen 1 Type-A port + 1 USB 3.2 Gen 1 Type-C data only, 1 USB 2.0 port, 1 headset jack, 1 HDMI 1.4 port*, 1 M.2 2230/2280 slot for solid-state drive, 1 SD 3.0 card slot",
+  "quantity": 10,
+  "price": 70620,
+  "discountedPrice": 59899,
+  "discountPercentage": 15,
+  "brand": "Dell",
+  "color": "Silver",
+  "size": [
+    {
+      "name": "14inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f0768cc1534011c633f7"
+      }
+    },
+    {
+      "name": "15.6inch",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f0768cc1534011c633f8"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/714UFzp5O7L._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Laptops",
+  "createdAt": {
+    "$date": "2024-09-05T17:55:02.787Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:55:02.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f10b8cc1534011c6341d",
+  "title": "Samsung Galaxy Watch4 Classic LTE",
+  "description": "Only compatible with Android Smartphones (Runs on Wear OS Powered by Samsung) Bioelectrical Impedance Analysis Sensor for Body Composition Analysis, Optical Heart Rate Sensor. Health Monitoring features such as Advanced Sleep Analysis & Women's Health. Enhanced Fitness tracking lets you track 90+ workouts; Enriched App availability and connectivity with Wear OS, Powered by Samsung. Typical Usage Time (Hours): up to 40 Hours.",
+  "quantity": 10,
+  "price": 42999,
+  "discountedPrice": 10499,
+  "discountPercentage": 76,
+  "brand": "Samsung",
+  "color": "Black",
+  "size": [
+    {
+      "name": "41mm",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f10b8cc1534011c6341e"
+      }
+    },
+    {
+      "name": "45mm",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f10b8cc1534011c6341f"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61ftRB6KycL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Watches",
+  "createdAt": {
+    "$date": "2024-09-05T17:57:31.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T17:57:31.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f1dc8cc1534011c63430",
+  "title": "IIK COLLECTION Watches for Women Round Studded Dial |Day and Date Quartz Movemnet |Long Battery Life|Stainless Steel Bracelet Chain Strap|Double Lock Clasp Safety Watches for Girls",
+  "description": "Watch Display Type: Day and Date Analogue, Movement: Quartz, Dial Color: Silver, Case & Band Material: Stainless steel, Watch size (Strap: 15MM); Comfortable and durable Stainless Steel band. flexible, breathable, easy to adjust the watch to your wrist size when you need a watch to prove that you value & time. Strap is also durable.",
+  "quantity": 10,
+  "price": 1499,
+  "discountedPrice": 449,
+  "discountPercentage": 70,
+  "brand": "IIK",
+  "color": "Silver",
+  "size": [
+    {
+      "name": "29mm",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f1dc8cc1534011c63431"
+      }
+    },
+    {
+      "name": "34mm",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f1dc8cc1534011c63432"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71ZgUJQOvYL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Watches",
+  "createdAt": {
+    "$date": "2024-09-05T18:01:00.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:01:00.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f2508cc1534011c63435",
+  "title": "CRESTELLO Silicone Strap Analog Wrist Watch for Women | CR-Ck137",
+  "description": "Strap Width: 16 mm Package Contents: 1 Wrist Watch & Warranty Card Warranty Summary: 1 Year Manufacturer's warranty on all the manufacturing defects including the machine movement. Any damages due to wear and tear or mishandling of the product are not covered under warranty. The quartz movement is covered under warranty but the cell is not covered under warranty.",
+  "quantity": 10,
+  "price": 1499,
+  "discountedPrice": 449,
+  "discountPercentage": 70,
+  "brand": "CRESTELLO",
+  "color": "Blue",
+  "size": [
+    {
+      "name": "Gold Crown",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f2508cc1534011c63436"
+      }
+    },
+    {
+      "name": "Silver Crown",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f2508cc1534011c63437"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61yXlWMrk4L._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Watches",
+  "createdAt": {
+    "$date": "2024-09-05T18:02:56.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:02:56.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f3098cc1534011c63449",
+  "title": "Casio Enticer Analog Dial Watc",
+  "description": "Dial Color: Black, Case Shape: Round, Dial Glass Material: Mineral Band Color: Silver, Band Material: Stainless Steel Watch Movement Type: Quartz, Watch Display Type: Analog Water Resistance Depth: 50 meters Warranty type:Manufacturer; 2 Years Domestic Warranty Remove plastic at crown to start the watch.",
+  "quantity": 10,
+  "price": 5995,
+  "discountedPrice": 5995,
+  "discountPercentage": 0,
+  "brand": "Casio",
+  "color": "Silver",
+  "size": [
+    {
+      "name": "45mm",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f3098cc1534011c6344a"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61FKVerMRWL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Watches",
+  "createdAt": {
+    "$date": "2024-09-05T18:06:01.839Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:06:01.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f3aa8cc1534011c63479",
+  "title": "Leriya Fashion Men's Regular Fit Shirt for Men||Rayon Abstract Printed Shirt||Short Sleeves Hawaiian Beach Shirt||Perfect for Camp||Outing||Summer Wear Shirt for Boys||Gift for Men",
+  "description": "Shirts Fabric:- Soft Rayon || Color :- Multi || Pattern:- Fancy Splash Ink Printed Shirt || Fit Type:- Regular Fit || Sleeves :- Short Sleeves || Sleeve Styling :- Preppy || Neck : Stylish Turn Down || Shirt Length :- Hip Length || Hem Line :- Curved || Button Front || Non-Stretch Package Content:- 1 Shirt for Men Casual || Type: Regular Shirts for Men || Occasion:- Evening Wear, Work Wear, Festival Wear, Function Wear, Club Wear, Party, Hangouts, Picnic, Vacation Wear",
+  "quantity": 10,
+  "price": 1999,
+  "discountedPrice": 329,
+  "discountPercentage": 84,
+  "brand": "Leriya",
+  "color": "Multi",
+  "size": [
+    {
+      "name": "S",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f3aa8cc1534011c6347a"
+      }
+    },
+    {
+      "name": "M",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f3aa8cc1534011c6347b"
+      }
+    },
+    {
+      "name": "L",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f3aa8cc1534011c6347c"
+      }
+    },
+    {
+      "name": "XL",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f3aa8cc1534011c6347d"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81oMFp+78VL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Fashion",
+  "createdAt": {
+    "$date": "2024-09-05T18:08:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:08:42.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f4a18cc1534011c634e8",
+  "title": "Portronics Smart Electric Universal Extension Board Multi Plug with 2500W, 3Mtr Cord Length, 2.1A USB Output",
+  "description": "[8 POWER SOCKETS FOR MULTIPLE USE] : The power converter has 8 separate power sockets for efficient multi-tasking. The power board ensures that equal power is distributed throughout the plugged in devices. [6 USB PORTS WITH 2.1A TOTAL OUTPUT] : Power Plate 7 has 6 USB ports that have a uniform power output of 2.1A. This feature ensures that the plugged in devices get efficient power output throughout their run time.",
+  "quantity": 10,
+  "price": 1999,
+  "discountedPrice": 798,
+  "discountPercentage": 60,
+  "brand": "Portronics",
+  "color": "Black",
+  "size": [
+    {
+      "name": "Power Plate 6",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f4a18cc1534011c634e9"
+      }
+    },
+    {
+      "name": "Power Plate 7",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f4a18cc1534011c634ea"
+      }
+    },
+    {
+      "name": "Power Plate 8",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f4a18cc1534011c634eb"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/518grrfPw8L._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Electronics",
+  "createdAt": {
+    "$date": "2024-09-05T18:12:49.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:12:49.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f5318cc1534011c63521",
+  "title": "ASIAN Men's TARZAN-11 Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+  "description": "Lightweight & Breathable : Exclusive design and durable materials every step feels light and breezy. Breathable, free-moving fabrics which adjust according to your foot and creates an astoundingly easy-going experience. Non Slip & Shockproof : Great engineering strikes a balance in style, made in the potent design and latest fashion trends. Made for long-term wear, with extra emphasis on providing cushion to the feet, removing heel strain.",
+  "quantity": 10,
+  "price": 1299,
+  "discountedPrice": 749,
+  "discountPercentage": 42,
+  "brand": "Asian",
+  "color": "White",
+  "size": [
+    {
+      "name": "6",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5318cc1534011c63522"
+      }
+    },
+    {
+      "name": "7",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5318cc1534011c63523"
+      }
+    },
+    {
+      "name": "8",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5318cc1534011c63524"
+      }
+    },
+    {
+      "name": "9",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5318cc1534011c63525"
+      }
+    },
+    {
+      "name": "10",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5318cc1534011c63526"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Footwear",
+  "createdAt": {
+    "$date": "2024-09-05T18:15:13.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:15:13.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f5d58cc1534011c6359c",
+  "title": "Amico Sports Running Shoes for Men Outdoors for Men",
+  "description": "Care Instructions: Allow your pair of air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoes bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner Warranty Type: Manufacturer",
+  "quantity": 10,
+  "price": 2499,
+  "discountedPrice": 599,
+  "discountPercentage": 76,
+  "brand": "Amico",
+  "color": "White",
+  "size": [
+    {
+      "name": "6",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5d58cc1534011c6359d"
+      }
+    },
+    {
+      "name": "7",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5d58cc1534011c6359e"
+      }
+    },
+    {
+      "name": "8",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5d58cc1534011c6359f"
+      }
+    },
+    {
+      "name": "9",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5d58cc1534011c635a0"
+      }
+    },
+    {
+      "name": "10",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f5d58cc1534011c635a1"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51itIiiHkWL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Footwear",
+  "createdAt": {
+    "$date": "2024-09-05T18:17:57.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:17:57.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f62e8cc1534011c635a4",
+  "title": "BOLTAGO Men's FORTUNER-11 Sports Running Shoes with Ultra Bounce,Twinspring Technology Lightweight EVA Sole with Memory Foam Insole Casual Sneaker Shoes for Men's",
+  "description": "Lightweight & Breathable : Exclusive design and durable materials every step feels light and breezy. Breathable, free-moving fabrics which adjust according to your foot and creates an astoundingly easy-going experience. Multiple Uses: Best running shoes for mens can be used in gym workout, outdoor running, morning walking, basketball, badminton, trekking, hip hop dance, party wear, dancing, volleyball, hiking, athletic sports, cycling, hockey, driving, jogging, kabaddi, kabbadi, marathon, bike riding, training, skating, pt, office, futsal, golf, leisure and tennis",
+  "quantity": 10,
+  "price": 1499,
+  "discountedPrice": 599,
+  "discountPercentage": 60,
+  "brand": "BOLTAGO",
+  "color": "Red",
+  "size": [
+    {
+      "name": "6",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f62e8cc1534011c635a5"
+      }
+    },
+    {
+      "name": "7",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f62e8cc1534011c635a6"
+      }
+    },
+    {
+      "name": "8",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f62e8cc1534011c635a7"
+      }
+    },
+    {
+      "name": "9",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f62e8cc1534011c635a8"
+      }
+    },
+    {
+      "name": "10",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f62e8cc1534011c635a9"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/714pylSqzML._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Footwear",
+  "createdAt": {
+    "$date": "2024-09-05T18:19:26.742Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:19:26.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f7328cc1534011c635f5",
+  "title": "Motorola G64 5G (Ice Lilac, 12GB RAM) | Expandable Upto 2TB | Upto 24GB RAM with RAM Boost | 50MP (OIS) + 8MP | 16MP Front Camera | MediaTek Dimensity 7025 Processor | 6000 mAh Battery",
+  "description": "16.51 cm (6.5 inch) Full HD+ Display 12 GB RAM | Expandable Upto 1 TB | 50MP (OIS) + 8MP | 16MP Front Camera 6000 mAh Battery Dimensity 7020 Processor Octa-core (2x2.5 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55) TurboPower 33 W charger",
+  "quantity": 10,
+  "price": 19999,
+  "discountedPrice": 18196,
+  "discountPercentage": 9,
+  "brand": "Motorola",
+  "color": "Purple",
+  "size": [
+    {
+      "name": "128GB",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f7328cc1534011c635f6"
+      }
+    },
+    {
+      "name": "256GB",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f7328cc1534011c635f7"
+      }
+    },
+    {
+      "name": "512GB",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f7328cc1534011c635f8"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71ynZLgkkBL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Smartphones",
+  "createdAt": {
+    "$date": "2024-09-05T18:23:46.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:23:46.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f7bb8cc1534011c6360b",
+  "title": "Redmi Note 13 Pro+ (Fusion Purple, 8GB RAM) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved AMOLED | 120W HyperCharge",
+  "description": "Display: 6.67 Inches; 120 Hz 3D Curved AMOLED 1.5K Display with Corning Gorilla Glass Victus; Resolution: 2712 x 1220 Pixels; Dolby Vision, Adaptive HDR 10+, 68.7billion colors, 1800nits Peak Brightness Processor:Mediatek Dimensity 7200 Octa-core Processor (Based 4nm Architecture) ; Up to 2.8 GHz; Camera: 200MP Main Camera with Samsung ISOCELL HP3 sensor (OIS + EIS supported), 8MP Ultrawide and 2MP Macro | 16MP Front (Selfie) Camera; 7P lens, Dual LED Flash",
+  "quantity": 10,
+  "price": 33999,
+  "discountedPrice": 29499,
+  "discountPercentage": 13,
+  "brand": "Redmi",
+  "color": "Purple",
+  "size": [
+    {
+      "name": "128GB",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f7bb8cc1534011c6360c"
+      }
+    },
+    {
+      "name": "256GB",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f7bb8cc1534011c6360d"
+      }
+    },
+    {
+      "name": "512GB",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f7bb8cc1534011c6360e"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/819sWoSDFRL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Smartphones",
+  "createdAt": {
+    "$date": "2024-09-05T18:26:03.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:26:03.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d9f85e8cc1534011c6362d",
+  "title": "Safari Casual backpacks 2 compartments, front pocket, bottle holder, School bags for boys & girls, College bag for women and men, Ideal for school, college, office & travel",
+  "description": "HIGH QUALITY FABRIC: Our lightweight yet durable bags are made of 100% polyester and water resistant fabric. This casual backpack can be by boys and girls for school, college, coaching, tution, or everyday outings. FRONT POCKET: Our trendy unisex bag pack has a front storage pocket that keeps small items neatly organized and easy to access",
+  "quantity": 10,
+  "price": 2599,
+  "discountedPrice": 639,
+  "discountPercentage": 75,
+  "brand": "Safari",
+  "color": "Black",
+  "size": [
+    {
+      "name": "30L",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f85e8cc1534011c6362e"
+      }
+    },
+    {
+      "name": "32L",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f85e8cc1534011c6362f"
+      }
+    },
+    {
+      "name": "35L",
+      "quantity": 10,
+      "_id": {
+        "$oid": "66d9f85e8cc1534011c63630"
+      }
+    }
+  ],
+  "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/51LoviZ7+aL._AC_UL232_SR232,232_.jpg",
+  "numRatings": 0,
+  "category": "Backpacks",
+  "createdAt": {
+    "$date": "2024-09-05T18:28:46.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-05T18:28:46.139Z"
+  },
+  "__v": 0
+}
+]
