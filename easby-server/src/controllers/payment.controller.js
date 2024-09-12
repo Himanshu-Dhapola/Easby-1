@@ -22,8 +22,8 @@ const payment = async (req, res) => {
       payment_method_types: ['card'],
       line_items: lineItems,
       mode: 'payment',
-      success_url: 'https://easby-server.vercel.app/success',
-      cancel_url: 'https://easby-server.vercel.app/failed',
+      success_url: 'https://himanshu-dhapola-easby.vercel.app/success',
+      cancel_url: 'https://himanshu-dhapola-easby.vercel.app/failed',
     });
 
     return res.status(200).json({
