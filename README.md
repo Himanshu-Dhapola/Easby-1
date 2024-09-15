@@ -5,7 +5,7 @@ An e-commerce web application built using modern web technologies. The platform 
 
 ---
 
-#### [Live Demo](https://himanshu-dhapola-easby.vercel.app/)
+#### Live Demo - https://himanshu-dhapola-easby.vercel.app/
 
 ---
 
