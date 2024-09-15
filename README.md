@@ -9,6 +9,12 @@ An e-commerce web application built using modern web technologies. The platform 
 
 ---
 
+ER Model
+![diagram-export-9-15-2024-1_56_15-PM](https://github.com/user-attachments/assets/a16f38d3-3426-44e6-a2e3-d1783fda843e)
+
+
+---
+
 ## Key Features
 - **User Authentication & Authorization**: Secure login and signup with JWT and session handling.
 - **Product Catalog & Search**: Browse and search products for easy navigation.
